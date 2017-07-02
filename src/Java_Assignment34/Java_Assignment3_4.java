@@ -47,7 +47,7 @@ class Student // Base Class for student
 	{
 		return sname;		
 	}
-   public String getStClass() // Getter for Class
+    public String getStClass() // Getter for Class
 	{
 		return stclass;
 		
